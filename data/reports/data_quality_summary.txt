@@ -1,0 +1,32 @@
+Day 1 Data Quality Summary
+
+Datasets Loaded: 10
+
+Validation Performed:
+- Shape Check
+- Data Type Check
+- Head() Review
+- Missing Value Check
+- Duplicate Check
+
+Fund Master:
+- Total Schemes: 40
+- AMFI Codes: 40
+
+NAV History:
+- AMFI Codes: 40
+
+AMFI Validation:
+- Missing Codes: 0
+- All scheme codes validated successfully
+
+API Extraction:
+- HDFC Top 100 NAV downloaded
+- SBI Bluechip NAV downloaded
+- ICICI Bluechip NAV downloaded
+- Nippon Large Cap NAV downloaded
+- Axis Bluechip NAV downloaded
+- Kotak Bluechip NAV downloaded
+
+Conclusion:
+Data ingestion completed successfully.
